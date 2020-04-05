@@ -40,5 +40,5 @@ $ npm start
 
 ----------
 
-Leandro de Matos Pereira ||
+Leandro de Matos Pereira |
 leandromatpereira@hotmail.com
